@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Giantfire33
+- 🤗 what i've learned so far: python, html+css
+- 👀 I’m interested in ... programming tools/small scripts in python, webdesign, software development, app development, unity game development,
+- 📫 How to reach me ... via email: fensterputzer33@googlemail.com
