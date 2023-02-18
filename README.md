@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Giantfire33
-- 🤗 what i've learned so far: python, html+css
+- 🤗 what i've learned so far: python, nodejs, html+css
 - 👀 I’m interested in ... programming tools/small scripts in python, webdesign, software development, app development, unity game development,
